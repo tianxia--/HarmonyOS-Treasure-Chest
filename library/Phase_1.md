@@ -30,7 +30,8 @@
 
  UI滚动组件
 
-4、[ohos-MPChart](https://gitee.com/openharmony-sig/ohos-MPChart) - mpchart是一个包含各种类型图表的图表库，主要用于业务数据汇总，例如销售数据走势图，股价走势图等场景中使用，方便开发者快速实现图表UI，mpchart主要包括曲线图、柱形图、饼状图、蜡烛图、气泡图、雷达图等自定义图表库
+4、[ohos-MPChart](https://gitee.com/openharmony-sig/ohos-MPChart) - 
+mpchart是一个包含各种类型图表的图表库，主要用于业务数据汇总，例如销售数据走势图，股价走势图等场景中使用，方便开发者快速实现图表UI，mpchart主要包括曲线图、柱形图、饼状图、蜡烛图、气泡图、雷达图等自定义图表库
 ![](https://gitee.com/openharmony-sig/ohos-MPChart/raw/master/preview/preview.gif)
 
 5、[material-dialogs](https://gitee.com/openharmony-sig/material-dialogs) - 是自定义对话框库
@@ -41,16 +42,22 @@
 ![](https://gitee.com/openharmony-sig/MaterialProgressBar/raw/master/gifs/customStyle.gif)
 ![](https://gitee.com/openharmony-sig/MaterialProgressBar/raw/master/gifs/color.gif)
 
-7、[RoundedImageView](https://gitee.com/openharmony-sig/RoundedImageView) - RoundedImageView支持圆角（和椭圆或圆形）的快速 ImageView，它支持许多附加功能，包括椭圆、圆角矩形、ScaleTypes 和 TileModes
+7、[RoundedImageView](https://gitee.com/openharmony-sig/RoundedImageView) - 
+
+RoundedImageView支持圆角（和椭圆或圆形）的快速 ImageView，它支持许多附加功能，包括椭圆、圆角矩形、ScaleTypes 和 TileModes
 
 ![](https://gitee.com/openharmony-sig/RoundedImageView/raw/master/image/image_svg.png)
 ![](https://gitee.com/openharmony-sig/RoundedImageView/raw/master/image/image_ovals.png)
 
-8、[ohos_banner](https://gitee.com/openharmony-sig/ohos_banner) - 是适配OpenHarmony环境的一款banner库，常用于广告图片轮播场景
+8、[ohos_banner](https://gitee.com/openharmony-sig/ohos_banner) - 
+
+是适配OpenHarmony环境的一款banner库，常用于广告图片轮播场景
 
 ![](https://gitee.com/openharmony-sig/ohos_banner/raw/master/screenshot/banner.gif)
 
-9、[ohos_highlightguide](https://gitee.com/openharmony-sig/ohos_highlightguide) - 基于OpenHarmony的高亮型新手引导组件，通过高亮区域与蒙版背景的明暗度对比，使用户快速锁定重点功能
+9、[ohos_highlightguide](https://gitee.com/openharmony-sig/ohos_highlightguide) -
+
+基于OpenHarmony的高亮型新手引导组件，通过高亮区域与蒙版背景的明暗度对比，使用户快速锁定重点功能
 
 ![](https://gitee.com/openharmony-sig/ohos_highlightguide/raw/master/screenshot/highLightGuide1.gif)
 
